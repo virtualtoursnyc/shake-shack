@@ -1,0 +1,17 @@
+h1 {
+	font-size: 70px;
+	text-align: center;
+	font-family: courier;
+}
+p {
+	font-size: 40px;
+	text-align: center;
+	font-family: courier;
+}
+body {
+	background-image: url('skyline.jpeg');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+}
+
